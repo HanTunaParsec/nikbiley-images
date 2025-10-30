@@ -1,8 +1,0 @@
-<html>
-<header>
-  <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
-</header>
-<body>
-  <model-viewer alt="Siegel" src="https://github.com/HanTunaParsec/nikbiley-images/blob/33d0911666cefc944ce63e0d255ba4db250ef8e9/Siegel_v3_1.glb" ar environment-image="shared-assets/environments/moon_1k.hdr" poster="shared-assets/models/NeilArmstrong.webp" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
-</body>
-</html>
